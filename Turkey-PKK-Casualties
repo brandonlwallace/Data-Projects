@@ -1,0 +1,249 @@
+Date,Location,Number of Casualities,Casuality Type,Plotting Latitude,Plotting Longitude
+21-Jul-15,Adiyaman,1,Turkish Security Forces,37.76365,38.277259
+22-Jul-15,Ceylanpinar,2,Turkish Security Forces,36.909186,39.734338
+25-Jul-15,Diyarbakir,2,Turkish Security Forces,37.9249733,40.2109826
+27-Jul-15,Mus,1,Turkish Security Forces,38.734561,41.491038
+28-Jul-15,Sirnak,,Kurdish Rebels,37.518974,42.453714
+29-Jul-15,Zap,,Kurdish Rebels,36.724462,43.823197
+30-Jul-15,Cinar,1,Turkish Security Forces,37.724137,40.4134839
+31-Jul-15,Pozanti,2,Turkish Security Forces,37.425584,34.873613
+31-Jul-15,Pozanti,2,Kurdish Rebels,37.425584,34.873613
+31-Jul-15,Agri,3,Kurdish Rebels,39.719074,43.050591
+1-Aug-15,Catak,1,Kurdish Rebels,38.1231651,43.0882212
+1-Aug-15,Kars,1,Turkish Security Forces,40.6013378,43.0974525
+2-Aug-15, Dogubayazit,2,Turkish Security Forces,39.547074,44.068778
+2-Aug-15,Mardin,1,Turkish Security Forces,37.312903,40.733951
+3-Aug-15, Diyarbakir,2,Turkish Security Forces,37.9249733,40.2109826
+4-Aug-15,Sirnak ,1,Turkish Security Forces,37.518974,42.453714
+4-Aug-15,Sirnak ,2,Turkish Security Forces,37.518974,42.453714
+4-Aug-15,Hakkari,,Kurdish Rebels,37.577427,43.736782
+5-Aug-15,Cizre,1,Turkish Security Forces,37.332346,42.185474
+7-Aug-15,Silopi,1,Turkish Security Forces,37.3055432,42.4983217
+7-Aug-15, Dogubayazit,1,Kurdish Rebels,39.547074,44.068778
+7-Aug-15, Dogubayazit,1,Turkish Security Forces,39.547074,44.068778
+7-Aug-15,Milyat,1,Turkish Security Forces,37.415148,41.37343
+10-Aug-15,Istanbul,1,Turkish Security Forces,41.0082376,28.9783589
+10-Aug-15,Istanbul,2,Kurdish Rebels,41.0082376,28.9783589
+10-Aug-15,Silopi,4,Turkish Security Forces,37.3055432,42.4983217
+10-Aug-15,Beytussebap,1,Turkish Security Forces,37.570015,43.163952
+10-Aug-15,Beytussebap,1,Kurdish Rebels,37.570015,43.163952
+13-Aug-15,Bingol,1,Turkish Security Forces,38.885464,40.496625
+13-Aug-15,Beytussebap,2,Kurdish Rebels,37.570015,43.163952
+14-Aug-15,Daglica,4,Turkish Security Forces,37.3739009,44.085079
+19-Aug-15,Dargecit ,4,Turkish Security Forces,37.5461839,41.720381
+3-Sep-15,Mardin,4,Turkish Security Forces,37.312903,40.733951
+5-Sep-15,Cizre,40,Kurdish Rebels,37.332346,42.185474
+6-Sep-15,Hakkari,16,Turkish Security Forces,37.577427,43.736782
+8-Sep-15,Hakkari,15,Turkish Security Forces,37.577427,43.736782
+26-Sep-15,Sirnak,34,Kurdish Rebels,37.518974,42.453714
+26-Sep-15,Sirnak,2,Turkish Security Forces,37.518974,42.453714
+2-Oct-15,Silvan,17,Kurdish Rebels,38.141225,41.012807
+5-Nov-15,Hakkari,,Kurdish Rebels,37.577427,43.736782
+22-Nov-15,Hakkari,10,Kurdish Rebels,37.577427,43.736782
+2-Dec-15,Mardin,1,Turkish Security Forces,37.312903,40.733951
+2-Dec-15,Sur,1,Turkish Security Forces,34.0812107,40.388604
+2-Dec-15,Sur,3,Kurdish Rebels,34.0812107,40.388604
+13-Dec-15,Dargecit ,3,Turkish Security Forces,37.5461839,41.720381
+13-Dec-15,Dargecit ,11,Kurdish Rebels,37.5461839,41.720381
+17-Dec-15,Cizre,127,Kurdish Rebels,37.332346,42.185474
+21-Dec-15,Bitlis,2,Turkish Security Forces,38.400569,42.109502
+21-Dec-15,Sur,1,Turkish Security Forces,38.059761,40.388604
+30-Dec-15,Sur,3,Turkish Security Forces,38.059761,40.388604
+31-Dec-15,Cizre,1,Turkish Security Forces,37.332346,42.185474
+31-Dec-15,Sur,1,Turkish Security Forces,34.0812107,40.388604
+1-Jan-16,Cizre,2,Turkish Security Forces,37.332346,42.185474
+1-Jan-16,Cizre,12,Kurdish Rebels,37.332346,42.185474
+3-Jan-16,Sur,3,Turkish Security Forces,34.0812107,40.388604
+4-Jan-16,Sirnak,2,Kurdish Rebels,37.518974,42.453714
+7-Jan-16,Cizre,16,Kurdish Rebels,37.332346,42.185474
+7-Jan-16,Sur,2,Kurdish Rebels,34.0812107,40.388604
+9-Jan-16,Diyarbakir,2,Turkish Security Forces,37.9249733,40.2109826
+10-Jan-16,Van,12,Kurdish Rebels,38.5012085,43.3729793
+10-Jan-16,Van,1,Turkish Security Forces,38.5012085,43.3729793
+10-Jan-16,Cizre,20,Kurdish Rebels,37.332346,42.185474
+14-Jan-16,Diyarbakir,30,Turkish Security Forces,37.9249733,40.2109826
+14-Jan-16,Cizre,19,Kurdish Rebels,37.332346,42.185474
+15-Jan-16,Siirt,1,Turkish Security Forces,37.927404,41.941978
+18-Jan-16,Sirnak,2,Turkish Security Forces,37.518974,42.453714
+20-Jan-16,Sur,2,Turkish Security Forces,34.0812107,-118.3852167
+21-Jan-16,Silopi,,Kurdish Rebels,37.3055432,42.4983217
+27-Jan-16,Sur,4,Turkish Security Forces,34.0812107,40.388604
+27-Jan-16,Sur,9,Kurdish Rebels,34.0812107,40.388604
+29-Jan-16,Sur,1,Turkish Security Forces,34.0812107,40.388604
+29-Jan-16,Cizre,1,Turkish Security Forces,37.332346,42.185474
+31-Jan-16,Cizre,3,Turkish Security Forces,37.332346,42.185474
+1-Feb-16,Diyarbakir,5,Turkish Security Forces,37.9249733,40.2109826
+7-Feb-16,Cizre,60,Kurdish Rebels,37.332346,42.185474
+7-Feb-16,Cizre,3,Turkish Security Forces,37.332346,42.185474
+12-Feb-16,Cizre,16,Kurdish Rebels,37.332346,42.185474
+12-Feb-16,Sur,5,Kurdish Rebels,34.0812107,40.388604
+12-Feb-16,Hakkari,6,Kurdish Rebels,37.577427,43.736782
+17-Feb-16,Ankara,27,Turkish Security Forces,39.9333635,32.8597419
+18-Feb-16,Diyarbakir,6,Turkish Security Forces,37.9249733,40.2109826
+18-Feb-16,Sirnak,2,Turkish Security Forces,37.518974,42.453714
+23-Feb-16,Idil,6,Kurdish Rebels,37.3402,41.8934
+24-Feb-16,Idil,20,Kurdish Rebels,37.3402,41.8934
+24-Feb-16,Idil,12,Kurdish Rebels,37.3402,41.8934
+7-Mar-16,Sur,4,Kurdish Rebels,34.0812107,40.388604
+21-Mar-16,Nusaybin,5,Turkish Security Forces,37.0696439,41.213997
+22-Mar-16,Nusaybin,1,Turkish Security Forces,37.0696439,41.213997
+24-Mar-16,Sirnak,1,Kurdish Rebels,37.518974,42.453714
+29-Mar-16,Nusaybin,16,Kurdish Rebels,37.0696439,41.213997
+29-Mar-16,Sirnak,9,Kurdish Rebels,37.518974,42.453714
+29-Mar-16,Yuksekova,3,Kurdish Rebels,37.571716,44.282299
+31-Mar-16,Diyarbakir,7,Turkish Security Forces,37.9249733,40.2109826
+1-Apr-16,Nusaybin,1,Turkish Security Forces,37.0696439,41.213997
+2-Apr-16,Sirnak,1,Turkish Security Forces,37.518974,42.453714
+2-Apr-16,Nusaybin,6,Turkish Security Forces,37.0696439,41.213997
+3-Apr-16,Yuksekova,17,Kurdish Rebels,37.571716,44.282299
+3-Apr-16,Nusaybin,6,Kurdish Rebels,37.0696439,41.213997
+3-Apr-16,Sirnak,4,Kurdish Rebels,37.518974,42.453714
+4-Apr-16,Nusaybin,1,Turkish Security Forces,37.0696439,41.213997
+6-Apr-16,Bismil ,1,Turkish Security Forces,37.850055,40.668688
+7-Apr-16,Nusaybin,1,Turkish Security Forces,37.0696439,41.213997
+8-Apr-16,Nusaybin,7,Kurdish Rebels,37.0696439,41.213997
+8-Apr-16,Hakkari,3,Kurdish Rebels,37.577427,43.736782
+8-Apr-16,Sirnak,2,Kurdish Rebels,37.518974,42.453714
+10-Apr-16,Hakkari,19,Kurdish Rebels,37.577427,43.736782
+12-Apr-16,Hani,3,Turkish Security Forces,38.411175,40.3961619
+12-Apr-16,Hakkari,1,Turkish Security Forces,37.577427,43.736782
+12-Apr-16,Sirnak,1,Turkish Security Forces,37.518974,42.453714
+12-Apr-16,Nusaybin,1,Turkish Security Forces,37.0696439,41.213997
+13-Apr-16,Mus,1,Kurdish Rebels,38.734561,41.491038
+16-Apr-16,Savur,5,Turkish Security Forces,37.5484936,40.913211
+17-Apr-16,Tunceli,23,Kurdish Rebels,39.10617,39.548259
+21-Apr-16,Sirnak,,Kurdish Rebels,37.518974,42.453714
+22-Apr-16,Tunceli,3,Turkish Security Forces,39.10617,39.548259
+22-Apr-16,Sirnak,8,Kurdish Rebels,37.518974,42.453714
+22-Apr-16,Nusaybin,4,Kurdish Rebels,37.0696439,41.213997
+22-Apr-16,Mardin,6,Kurdish Rebels,37.312903,40.733951
+23-Apr-16,Mardin,1,Turkish Security Forces,37.312903,40.733951
+25-Apr-16,Mardin,2,Turkish Security Forces,37.312903,40.733951
+27-Apr-16,Varto,1,Turkish Security Forces,39.173291,41.455974
+28-Apr-16,Sirnak,2,Turkish Security Forces,37.518974,42.453714
+28-Apr-16,Sirnak,10,Kurdish Rebels,37.518974,42.453714
+30-Apr-16,Sirnak,,Kurdish Rebels,37.518974,42.453714
+1-May-16,Nusaybin,3,Turkish Security Forces,37.0696439,41.213997
+2-May-16,Sirnak,7,Kurdish Rebels,37.518974,42.453714
+2-May-16,Nusaybin,6,Kurdish Rebels,37.0696439,41.213997
+2-May-16,Cukurca,6,Kurdish Rebels,37.2937089,43.6711887
+2-May-16,Semdinli,5,Kurdish Rebels,37.3034419,44.57696
+6-May-16,Giresun,1,Turkish Security Forces,39.10617,39.548259
+7-May-16,Tunceli,2,Kurdish Rebels,40.917532,38.392653
+10-May-16,Sirnak,8,Kurdish Rebels,37.518974,42.453714
+10-May-16,Nusaybin,4,Kurdish Rebels,37.0696439,41.213997
+13-May-16,Cukurca,6,Turkish Security Forces,37.2937089,43.6711887
+13-May-16,Cukurca,22,Kurdish Rebels,37.2937089,43.6711887
+14-May-16,Hakkari,2,Turkish Security Forces,37.577427,43.736782
+14-May-16,Yuksekova,1,Turkish Security Forces,37.571716,44.282299
+14-May-16,Yuksekova,2,Kurdish Rebels,37.571716,44.282299
+15-May-16,Sirnak,8,Kurdish Rebels,37.518974,42.453714
+15-May-16,Sarikimas,4,Kurdish Rebels,40.333401,42.590479
+15-May-16,Yuksekova,3,Kurdish Rebels,37.571716,44.282299
+15-May-16,Nusaybin,2,Kurdish Rebels,37.0696439,41.213997
+16-May-16,Kars,1,Turkish Security Forces,40.6013378,43.0974525
+16-May-16,Nusaybin,2,Turkish Security Forces,37.0696439,41.213997
+18-May-16,Hakkari,4,Turkish Security Forces,37.577427,43.736782
+24-May-16,Van,6,Turkish Security Forces,38.501208,43.372979
+29-May-16,Uludere,2,Turkish Security Forces,37.4291829,42.8831306
+29-May-16,Siirt,1,Turkish Security Forces,37.927404,41.941978
+30-May-16,Ipekyolu,2,Turkish Security Forces,38.6014262,43.63091
+30-May-16,Nusaybin,1,Kurdish Rebels,37.0696439,41.213997
+2-Jun-16,Nusaybin,1,Turkish Security Forces,37.0696439,41.213997
+5-Jun-16,Semdinli,7,Kurdish Rebels,37.3034419,44.57696
+5-Jun-16,Sirnak,1,Turkish Security Forces,37.518974,42.453714
+7-Jun-16,Istanbul,7,Turkish Security Forces,41.0082376,28.9783589
+8-Jun-16,Midyat,2,Turkish Security Forces,37.415148,41.37343
+11-Jun-16,Hakkari,13,Kurdish Rebels,37.577427,43.736782
+11-Jun-16,Ipekyolu,3,Kurdish Rebels,38.6014262,43.63091
+11-Jun-16,Hakkari,2,Turkish Security Forces,37.577427,43.736782
+22-Jun-16,Sirnak,1,Turkish Security Forces,37.518974,42.453714
+24-Jun-16,Cukurca,6,Turkish Security Forces,37.2937089,43.6711887
+25-Jun-16,Hakkari,,Kurdish Rebels,37.577427,43.736782
+26-Jun-16,Diyarbakir,2,Turkish Security Forces,37.9249733,40.2109826
+27-Jun-16,Bitlis,1,Turkish Security Forces,38.400569,42.109502
+29-Jun-16,Diyarbakir,2,Turkish Security Forces,37.9249733,40.2109826
+8-Jul-16,Semdinli,12,Kurdish Rebels,37.3034419,44.57696
+8-Jul-16,Artuklu,4,Turkish Security Forces,37.3352649,40.7066954
+9-Jul-16,Agri,2,Kurdish Rebels,39.719074,43.050591
+10-Jul-16,Van,1,Kurdish Rebels,38.5012085,43.3729793
+11-Jul-16,Semdinli,4,Turkish Security Forces,37.3034419,44.57696
+11-Jul-16,Mardin,4,Kurdish Rebels,37.312903,40.733951
+30-Jul-16,Hakkari,35,Kurdish Rebels,37.577427,43.736782
+31-Jul-16,Ordu,3,Turkish Security Forces,40.986166,37.879721
+1-Aug-16,Bingol,5,Turkish Security Forces,38.885464,40.496625
+11-Aug-16,Hakkari,4,Turkish Security Forces,37.577427,43.736782
+12-Aug-16,Nusaybin,1,Turkish Security Forces,37.0696439,41.213997
+15-Aug-16,Bismil ,4,Turkish Security Forces,37.850055,40.668688
+18-Aug-16,Elazig,7,Turkish Security Forces,38.674816,39.222515
+21-Aug-16,Ordu,1,Kurdish Rebels,40.986166,37.879721
+22-Aug-16,Tunceli,1,Turkish Security Forces,39.10617,39.548259
+24-Aug-16,Lice,5,Turkish Security Forces,38.453188,40.652057
+24-Aug-16,Karliova,1,Turkish Security Forces,37.332346,42.185474
+26-Aug-16,Cizre,11,Turkish Security Forces,39.297996,41.014368
+28-Aug-16,Siirt,5,Turkish Security Forces,37.927404,41.941978
+28-Aug-16,Hakkari,9,Kurdish Rebels,37.577427,43.736782
+28-Aug-16,Hakkari,2,Turkish Security Forces,37.577427,43.736782
+29-Aug-16,Van,2,Kurdish Rebels,38.5012085,43.3729793
+1-Sep-16,Siirt,2,Turkish Security Forces,37.927404,41.941978
+1-Sep-16,Cukurca,3,Kurdish Rebels,37.2937089,43.6711887
+2-Sep-16,Cukurca,27,Kurdish Rebels,37.2937089,43.6711887
+2-Sep-16,Hakkari,1,Turkish Security Forces,37.577427,43.736782
+4-Sep-16,Cukurca,104,Kurdish Rebels,37.2937089,43.6711887
+4-Sep-16,Cukurca,18,Turkish Security Forces,37.2937089,43.6711887
+9-Sep-16,Cukurca,2,Kurdish Rebels,37.2937089,43.6711887
+14-Sep-16,Hakkari,16,Turkish Security Forces,37.577427,43.736782
+15-Sep-16,Cukurca,2,Kurdish Rebels,37.2937089,43.6711887
+15-Sep-16,Agri,2,Turkish Security Forces,39.719074,43.050591
+16-Sep-16,Hakkari,11,Kurdish Rebels,37.577427,43.736782
+18-Sep-16,Sirnak,3,Kurdish Rebels,37.518974,42.453714
+23-Sep-16,Hakkari,6,Kurdish Rebels,37.577427,43.736782
+26-Sep-16,Mardin,2,Turkish Security Forces,37.312903,40.733951
+26-Sep-16,Uludere,6,Turkish Security Forces,37.4291829,42.8831306
+26-Sep-16,Yuksekova,12,Kurdish Rebels,37.571716,44.282299
+29-Sep-16,Hakkari,4,Kurdish Rebels,37.577427,43.736782
+30-Sep-16,Ordu,6,Kurdish Rebels,40.986166,37.879721
+3-Oct-16,Sirnak,20,Kurdish Rebels,37.518974,42.453714
+3-Oct-16,Hakkari,2,Turkish Security Forces,37.577427,43.736782
+5-Oct-16,Cukurca,3,Kurdish Rebels,37.2937089,43.6711887
+6-Oct-16,Agri,8,Kurdish Rebels,39.719074,43.050591
+9-Oct-16,Hakkari,10,Turkish Security Forces,37.577427,43.736782
+9-Oct-16,Cukurca,8,Kurdish Rebels,37.2937089,43.6711887
+10-Oct-16,Ankara,1,Kurdish Rebels,39.9333635,32.8597419
+12-Oct-16,Cukurca,9,Kurdish Rebels,37.2937089,43.6711887
+13-Oct-16,Cukurca,2,Kurdish Rebels,37.2937089,43.6711887
+13-Oct-16,Sirnak,1,Kurdish Rebels,37.518974,42.453714
+14-Oct-16,Mardin,3,Turkish Security Forces,37.312903,40.733951
+16-Oct-16,Siirt,3,Kurdish Rebels,37.927404,41.941978
+17-Oct-16,Tunceli,10,Kurdish Rebels,39.10617,39.548259
+18-Oct-16,Cukurca,4,Kurdish Rebels,37.2937089,43.6711887
+20-Oct-16,Hakkari,26,Kurdish Rebels,37.577427,43.736782
+20-Oct-16,Hakkari,2,Turkish Security Forces,37.577427,43.736782
+21-Oct-16,Hakkari,12,Kurdish Rebels,37.577427,43.736782
+23-Oct-16,Tunceli,7,Kurdish Rebels,39.10617,39.548259
+23-Oct-16,Bingol,2,Turkish Security Forces,38.885464,40.496625
+24-Oct-16,Tunceli,2,Kurdish Rebels,39.10617,39.548259
+24-Oct-16,Semdinli,6,Kurdish Rebels,37.3034419,44.57696
+24-Oct-16,Cukurca,7,Kurdish Rebels,37.2937089,43.6711887
+29-Oct-16,Cukurca,3,Turkish Security Forces,37.2937089,43.6711887
+31-Oct-16,Hakkari,13,Kurdish Rebels,37.577427,43.736782
+31-Oct-16,Hakkari,3,Turkish Security Forces,37.577427,43.736782
+1-Nov-16,Cukurca,,Kurdish Rebels,37.2937089,43.6711887
+2-Nov-16,Cukurca,,Kurdish Rebels,37.2937089,43.6711887
+3-Nov-16,Bitlis,2,Kurdish Rebels,38.400569,42.109502
+3-Nov-16,Lice,1,Kurdish Rebels,38.453188,40.652057
+4-Nov-16,Sirnak,7,Kurdish Rebels,37.518974,42.453714
+4-Nov-16,Hakkari,3,Kurdish Rebels,37.577427,43.736782
+4-Nov-16,Lice,1,Kurdish Rebels,38.453188,40.652057
+14-Nov-16,Cizre,2,Kurdish Rebels,37.332346,42.185474
+16-Nov-16,Uludere,2,Kurdish Rebels,37.4291829,42.8831306
+18-Nov-16,Nusaybin,2,Kurdish Rebels,37.0696439,41.213997
+20-Nov-16,Daglica,12,Kurdish Rebels,37.3739009,44.085079
+29-Nov-16,Sirnak,10,Kurdish Rebels,37.518974,42.453714
+2-Dec-16,Hakkari,3,Turkish Security Forces,37.577427,43.736782
+2-Dec-16,Hakkari,20,Kurdish Rebels,37.577427,43.736782
+10-Dec-16,Istanbul,36,Turkish Security Forces,41.0082376,28.9783589
+17-Dec-16,Kayseri,14,Turkish Security Forces,38.720489,35.482597
+5-Jan-17,Izmir,1,Turkish Security Forces,38.423734,27.142826
+5-Jan-17,Izmir,2,Kurdish Rebels,38.423734,27.142826
+9-Mar-17,Diyarbakir,19,Kurdish Rebels,37.9249733,40.2109826
